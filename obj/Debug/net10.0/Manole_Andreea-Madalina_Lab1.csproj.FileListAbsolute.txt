@@ -97,3 +97,4 @@ D:\Mada\Manole_Andreea-Madalina_Lab1\obj\Debug\net10.0\Manole_Andreea-Madalina_L
 D:\Mada\Manole_Andreea-Madalina_Lab1\obj\Debug\net10.0\Manole_Andreea-Madalina_Lab1.genruntimeconfig.cache
 D:\Mada\Manole_Andreea-Madalina_Lab1\obj\Debug\net10.0\ref\Manole_Andreea-Madalina_Lab1.dll
 D:\Mada\Manole_Andreea-Madalina_Lab1\obj\Debug\net10.0\Manole_A.0765D5A0.Up2Date
+D:\Mada\Manole_Andreea-Madalina_Lab1\obj\Debug\net10.0\Manole_Andreea-Madalina_Lab1.sourcelink.json
